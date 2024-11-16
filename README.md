@@ -44,6 +44,14 @@
 <br/>
 <hr/>
 
+<details>	
+ <summary><b> Certifications</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<a href="https://api.badgr.io/public/assertions/70OJPmyXRgeWIpSamWYx4Q?identity__email=shrutika.vetal06%40gmail.com">
+</a>
+</div>
+</details>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
