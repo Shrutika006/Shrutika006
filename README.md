@@ -76,7 +76,5 @@
 <hr/>
 
 <br/>
-
-##Snake animation
-![snake gif](https://github.com/Shrutika006/Shrutika006/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Shrutika006/Shrutika006/blob/output/github-contribution-grid-snake-dark.svg)
   
