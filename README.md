@@ -56,8 +56,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  ![snake gif](https://github.com/Shrutika006/Shrutika006/blob/output/github-contribution-grid-snake.gif)
-  
+<!--   ![snake gif](https://github.com/Shrutika006/Shrutika006/blob/output/github-contribution-grid-snake.gif) -->
 </div>
 
 <hr/>
@@ -76,5 +75,4 @@
 <hr/>
 
 <br/>
-![snake gif](https://github.com/Shrutika006/Shrutika006/blob/output/github-contribution-grid-snake-dark.svg)
   
