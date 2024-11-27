@@ -16,7 +16,7 @@
 
 💬 Ask me about **full-stack web development, Node.js, React, or anything [here](https://github.com/Shrutika006/Shrutika006/issues)**.
 
-⚡ Fun fact: **I really enjoy sketching and content writing!**
+⚡ Hobbies : **I really enjoy sketching and content writing!**
 
  </div>
  
