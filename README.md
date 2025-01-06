@@ -80,11 +80,6 @@
 </div>
 </details>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-<!--   ![snake gif](https://github.com/Shrutika006/Shrutika006/blob/output/github-contribution-grid-snake.gif) -->
-</div>
-
 <br/><br/>
 
 <hr/>
