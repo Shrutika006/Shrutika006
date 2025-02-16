@@ -12,11 +12,11 @@
  
  🔭 I’m currently working on **Skin Cancer Prediction using AI/ML and Data Science** for my final year project.
  
- 🌱 I’m currently learning **MERN stack development**.
+ 🌱 I’m learning **MERN stack development**.
 
 💬 Ask me about **full-stack web development, Node.js, React, or anything [here](https://github.com/Shrutika006/Shrutika006/issues)**.
 
-😊 Hobbies : **I really enjoy sketching and content writing!**
+😊 Hobby : **I enjoy sketching and content writing!**
 
  </div>
  
