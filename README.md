@@ -44,7 +44,6 @@
 <br/>
 <hr/>
 
-<details>	
  <summary>GSSOC'24 Dynamic Badges 🪶</summary>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <a href="https://api.badgr.io/public/assertions/70OJPmyXRgeWIpSamWYx4Q?identity__email=shrutika.vetal06%40gmail.com">
@@ -78,7 +77,6 @@
 <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="96" alt="GSSoC Badge">
 </a>
 </div>
-</details>
 
 <br/><br/>
 
